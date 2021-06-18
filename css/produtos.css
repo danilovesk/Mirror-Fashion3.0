@@ -1,0 +1,208 @@
+body {
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(/img/degrade.jpg);
+}
+
+
+.card-body{
+    
+    display: inline-block
+}
+
+
+.items{
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+}
+
+
+
+.media {
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+.button {
+    background-color: rgb(0, 0, 0);
+    font-style: italic;
+    color: white;
+}
+
+.sacola {
+    float:right;
+    background-image: url('../img/sacola.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-right: 10px;
+    font-size: 11px;
+    padding-top: 6px;
+    padding-right: 35px;
+    text-align: center;
+    width: 100px;
+    
+}
+
+.menu-opcoes ul {
+    
+    
+    
+    padding-top: 25px;
+}
+
+.menu-opcoes a {
+    
+    color: #000000;
+    text-decoration: none;
+}
+
+.menu-opcoes ul li {
+    
+    margin-left: 20px;
+    display: inline;
+}
+
+.menu-opcoes {
+    background-color: #ccc;
+    text-align: left;
+    padding: 2px;
+    border-style: ridge;
+    border-radius: 10px;
+}
+
+.containers {
+    width: 940px;
+    margin: 0px auto;
+    background-color: #F2EDED;
+    border-style: ridge;
+    border-radius: 10px;
+}
+
+#principal {
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+#destaques {
+    height: 200px;
+    background-color: #F2EDED;
+}
+
+.logotipo {
+    text-align: center;
+    position: relative;
+    padding-top: 4px;
+    padding-left: 6px;
+}
+
+.lista1 {
+    list-style: none;
+    margin-top: 4px;
+    padding-top: 4px;
+    text-align: none;
+}
+
+#busca,
+#menu-departamentos {
+    float: center;
+}
+
+#menu-departamentos {
+    clear: left;
+}
+
+h2 {
+    color: black;
+}
+
+#banner-destaque {
+    padding: 20px 0 0 20px;
+}
+
+#busca {
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
+
+#busca input[type="search"] {
+    width: 170px;
+}
+
+#busca button {
+    background-image: url('../img/busca.png');
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 23px;
+}
+
+.lista1 {
+
+    width: 940px;
+    margin:  0px auto;
+    
+}
+
+.lista1 li {
+
+    display: inline-block;
+    text-align: center;
+    width:  26.4%;
+    margin: 0 1.5%;
+    margin-bottom: 10px;
+    border: 5px solid rgba(8, 8, 8, 0.794);
+    border-radius: 25px;
+    
+}
+
+.lista1 li:hover{
+    border-color: rgb(64, 209, 195);
+}
+
+
+.lista1 h2 {
+
+    font-size: large;
+
+}
+
+#foto {
+    position: relative;
+    bottom: 0%;
+    text-align:center;
+
+}
+
+h2:hover{
+    color: rgb(64, 209, 195);
+    text-decoration: underline rgb(64, 209, 195);
+}
+
+
+#rodape {
+    color: #777;
+    margin: 30px 0;
+    padding: 30px 0;
+}
+
+#rodape img {
+    margin-left: 280px;
+    margin-right: 30px;
+    vertical-align: middle;
+    width: 94px;
+}
+
+h5{
+    margin: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h6{
+    text-align: center;
+    
+}

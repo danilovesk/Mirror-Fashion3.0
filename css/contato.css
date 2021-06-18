@@ -1,0 +1,92 @@
+body {
+    margin: 0px;
+}
+
+.titulo {
+    border-bottom: rgb(116, 113, 113) 1px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom:  10px;
+}
+.titulo2 {
+    border-bottom: rgb(116, 113, 113) 1px solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: x-large;
+    text-align: center;
+    padding-bottom:  10px;
+}
+
+
+.texto {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.buttom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 1rem 0;
+}
+
+.texto-atendimento {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.textds {
+    padding: 10px;
+    text-align: center;
+}
+
+.textwpp {
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.textemail {
+    padding: 10px;
+    text-align: center;
+}
+
+.texttel {
+    padding: 10px;
+    text-align: center;
+}
+
+.horario {
+    text-align: center;
+    padding: 10px;
+}
+
+.container-contatos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.p1 {
+    padding-top: 2em;
+    margin: 10px;
+}
+
+.p2 {
+    margin: 10px;
+}
+
+.p3 {
+    margin: 10px;
+}
