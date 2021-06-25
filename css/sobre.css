@@ -1,7 +1,7 @@
 body {
     color: #333333;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image:url(img/degrade.jpg);
+    background-image:url(/img/degrade.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-left: auto;
